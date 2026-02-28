@@ -32,23 +32,6 @@ This repository contains structured daily LeetCode solutions with:
 This is not just about solving problems.  
 This is about building thinking clarity.
 
----
-
-## 📊 Coding Dashboard
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=unicorn&font=Fira%20Code&ext=contest,heatmap" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopalkushwaha1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-
-
-
 
 ## 📂 Folder Structure
 
