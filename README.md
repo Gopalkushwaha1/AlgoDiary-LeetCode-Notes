@@ -40,6 +40,9 @@ This is about building thinking clarity.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=dark&font=Fira%20Code&ext=contest,heatmap" />
+</p>
 
 ## 📂 Folder Structure
 
