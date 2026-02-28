@@ -1,4 +1,7 @@
-<h1 align="center">🚀 AlgoDiary – LeetCode Daily Interview Notes</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8250df,100:2ea44f&height=220&section=header&text=🚀%20AlgoDiary%20–%20LeetCode%20Daily%20Interview%20Notes&fontSize=30&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Daily+LeetCode+Practice;Handwritten+Interview+Notes;Brute+Force+%E2%86%92+Optimized+Thinking;Consistency+Builds+Mastery" />
 </p>
