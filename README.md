@@ -7,9 +7,9 @@ Focused on Real Interview Thinking & Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Practice-LeetCode-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Practice-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Interview%20Focused-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approach-Brute%20Force%20→%20Optimal-8250df?style=for-the-badge"/>
 </p>
 
 ---
