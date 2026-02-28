@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <b>Gopal Kushwaha</b><br/>
-  🔥 AlgoDiary 🔥 Learn 🔥 Think 🔥 Optimize
+  <span style="color:#8250df; font-size:22px;"><b>Gopal Kushwaha</b></span><br/>
+  <i>AlgoDiary • Learn • Think • Optimize</i>
 </p>
 
 <p align="center">
