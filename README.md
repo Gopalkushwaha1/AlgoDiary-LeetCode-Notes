@@ -36,13 +36,15 @@ This repository contains structured daily LeetCode solutions with:
 This is not just about solving problems.  
 This is about building thinking clarity.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=nord&font=Fira%20Code&ext=contest,heatmap" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gopalkushwaha1&show_icons=true&theme=tokyonight" height="180"/>
 </p>
+
+
 
 ## 📂 Folder Structure
 
