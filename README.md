@@ -87,7 +87,7 @@ Clarity > Speed
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 </p>
 
-## 🎥 YouTube Channel :: 
+## 🎥 YouTube Channel 
 
 Daily explanations available on: https://www.youtube.com/@AlgoDiaryByGopal
 
