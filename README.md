@@ -32,12 +32,18 @@ This is about building thinking clarity.
 ## 📂 Folder Structure
 
 Each problem follows a consistent format:
+
 Problem-Number-Problem-Name/
 │
-├── README.md → Problem summary & approach
-├── Solution.java → Optimized Java solution
-├── Notes.pdf → Handwritten explanation
+├── README.md
+│ → Problem summary & structured approach
+│
+├── Solution.java
+│ → Optimized Java implementation
+│
+└── Notes.pdf
 
+→ Handwritten step-by-step explanation
 
 
 ---
