@@ -1,4 +1,7 @@
 <h1 align="center">🚀 AlgoDiary – LeetCode Daily Interview Notes</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Daily+LeetCode+Practice;Handwritten+Interview+Notes;Brute+Force+%E2%86%92+Optimized+Thinking;Consistency+Builds+Mastery" />
+</p>
 
 <p align="center">
 Structured Daily LeetCode Solutions • Handwritten Notes • Optimized Java Code  
