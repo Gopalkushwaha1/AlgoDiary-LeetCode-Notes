@@ -52,12 +52,19 @@ Each problem follows a consistent format:
 Problem-Number-Problem-Name/
 
 │
+
 ├── README.md
+
 │ → Problem summary & structured approach
+
 │
+
 ├── Solution.java
+
 │ → Optimized Java implementation
+
 │
+
 └── Notes.pdf
 → Handwritten step-by-step explanation
 
