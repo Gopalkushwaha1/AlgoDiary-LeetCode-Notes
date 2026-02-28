@@ -1,2 +1,90 @@
-# AlgoDiary-LeetCode-Notes
-A structured collection of daily LeetCode solutions with handwritten interview-style notes, optimized Java implementations, and step-by-step problem-solving approaches focused on real interview thinking.
+<h1 align="center">🚀 AlgoDiary – LeetCode Daily Interview Notes</h1>
+
+<p align="center">
+Structured Daily LeetCode Solutions • Handwritten Notes • Optimized Java Code  
+<br/>
+Focused on Real Interview Thinking & Problem Solving
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Practice-LeetCode-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 About This Repository
+
+This repository contains structured daily LeetCode solutions with:
+
+- 📝 Handwritten step-by-step approach notes (PDF)
+- 💡 Brute Force → Optimized thinking transition
+- 💻 Clean & production-style Java implementations
+- 📊 Time & Space Complexity analysis
+- 🎯 Interview explanation mindset
+
+This is not just about solving problems.  
+This is about building thinking clarity.
+
+---
+
+## 📂 Folder Structure
+
+Each problem follows a consistent format:
+Problem-Number-Problem-Name/
+│
+├── README.md → Problem summary & approach
+├── Solution.java → Optimized Java solution
+├── Notes.pdf → Handwritten explanation
+
+
+
+---
+
+## 🧠 Learning Philosophy
+
+✔ Understand before optimizing  
+✔ Build logic step-by-step  
+✔ Focus on clarity over shortcuts  
+✔ Practice explaining like an interview  
+
+Consistency > Hype  
+Clarity > Speed  
+
+---
+
+## 🎥 YouTube Channel :: https://www.youtube.com/@AlgoDiaryByGopal
+
+Daily explanations available on:
+
+**AlgoDiary by Gopal Kushwaha**
+
+---
+
+## ⭐ Long-Term Goal
+
+Master Data Structures & Algorithms  
+Strengthen Interview Confidence  
+Build Strong Fundamentals  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@AlgoDiaryByGopal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopalkushwaha07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gopal_kushwaha7/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gopalkushwaha1">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
