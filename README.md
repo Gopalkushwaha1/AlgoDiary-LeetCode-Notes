@@ -114,5 +114,5 @@ Build Strong Fundamentals
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,50:8250df,100:1f6feb&height=160&section=footer&text=AlgoDiary%20–%20Learn.%20Think.%20Optimize.%20🔥&fontSize=28&fontAlignY=70&animation=fadeIn&fontColor=ffffff"/>
 </p>
