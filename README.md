@@ -19,7 +19,7 @@ Focused on Real Interview Thinking & Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=unicorn&font=Fira%20Code&ext=contest,heatmap" />
 </p>
 
 
