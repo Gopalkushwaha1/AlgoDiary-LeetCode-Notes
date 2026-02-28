@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gopalkushwaha1/AlgoDiary-LeetCode-Notes/main/Photo.jpg"
-       width="200" />
+  <img src="https://raw.githubusercontent.com/Gopalkushwaha1/AlgoDiary-LeetCode-Notes/main/modify%20img.png"
+       width="220" />
 </p>
 
 <p align="center">
