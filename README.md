@@ -41,7 +41,7 @@ This is about building thinking clarity.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopalkushwaha1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopalkushwaha1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
