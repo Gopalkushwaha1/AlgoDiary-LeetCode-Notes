@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Gopalkushwaha1/AlgoDiary-LeetCode-Notes/main/Photo.jpg" 
+       width="190" 
+       style="border-radius: 50%; box-shadow: 0px 0px 35px rgba(130,80,223,0.6);" />
+</p> 
+
+<p align="center">
 Structured Daily LeetCode Solutions • Handwritten Notes • Optimized Java Code  
 <br/>
 Focused on Real Interview Thinking & Problem Solving
