@@ -12,6 +12,10 @@ Focused on Real Interview Thinking & Problem Solving
   <img src="https://img.shields.io/badge/Approach-Brute%20Force%20→%20Optimal-8250df?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
+
 ---
 
 ## 📌 About This Repository
