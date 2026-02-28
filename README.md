@@ -41,7 +41,7 @@ This is about building thinking clarity.
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=dark&font=Fira%20Code&ext=contest,heatmap" />
+  <img src="https://leetcard.jacoblin.cool/G0PAL07?theme=nord&font=Fira%20Code&ext=contest,heatmap" width="500"/>
 </p>
 
 ## 📂 Folder Structure
