@@ -29,25 +29,30 @@ This is about building thinking clarity.
 
 ---
 
----
 
 ## 📂 Folder Structure
 
 Each problem follows a consistent format:
 
 Problem-Number-Problem-Name/
+
 │
+
 ├── README.md
+
 │ → Problem summary & structured approach
+
 │
+
 ├── Solution.java
+
 │ → Optimized Java implementation
+
 │
+
 └── Notes.pdf
+
 → Handwritten step-by-step explanation
-
-
----
 
 
 ---
@@ -55,7 +60,6 @@ Problem-Number-Problem-Name/
 ## 🧠 Learning Philosophy
 
 ✔ Understand before optimizing  
-
 ✔ Build logic step-by-step  
 ✔ Focus on clarity over shortcuts  
 ✔ Practice explaining like an interview  
