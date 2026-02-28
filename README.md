@@ -16,7 +16,6 @@ Focused on Real Interview Thinking & Problem Solving
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 </p>
 
----
 
 ## 📌 About This Repository
 
@@ -31,7 +30,9 @@ This repository contains structured daily LeetCode solutions with:
 This is not just about solving problems.  
 This is about building thinking clarity.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
 
 
 ## 📂 Folder Structure
@@ -51,7 +52,9 @@ Problem-Number-Problem-Name/
 → Handwritten step-by-step explanation
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
 
 ## 🧠 Learning Philosophy
 
@@ -63,7 +66,9 @@ Problem-Number-Problem-Name/
 Consistency > Hype  
 Clarity > Speed  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
 
 ## 🎥 YouTube Channel :: https://www.youtube.com/@AlgoDiaryByGopal
 
@@ -71,7 +76,9 @@ Daily explanations available on:
 
 **AlgoDiary by Gopal Kushwaha**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
 
 ## ⭐ Long-Term Goal
 
@@ -79,7 +86,9 @@ Master Data Structures & Algorithms
 Strengthen Interview Confidence  
 Build Strong Fundamentals  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
+</p>
 
 ## 🌐 Connect With Me
 
