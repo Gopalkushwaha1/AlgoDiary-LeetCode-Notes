@@ -1,0 +1,137 @@
+# /*
+
+## 🚀 AlgoDiary | LeetCode Solutions by Gopal Kushwaha
+
+🧠 Problem: 1081. Smallest Subsequence of Distinct Characters  
+🔗 Platform: LeetCode  
+🏷 Difficulty: Medium  
+
+----------------------------------------------
+
+💡 Problem Statement:
+
+Given a string `s`, return the lexicographically smallest
+subsequence of `s` that contains all the distinct
+characters exactly once.
+
+Example 1:
+
+Input: s = "bcabc"
+
+Output: "abc"
+
+Example 2:
+
+Input: s = "cbacdcbc"
+
+Output: "acdb"
+
+----------------------------------------------
+
+💡 Approach (Greedy + Monotonic Stack)
+
+Steps:
+
+• Store the last occurrence index of every character.
+• Use a stack to build the answer.
+• Skip characters already present in the stack.
+• Remove larger characters from the stack if they appear again later.
+• Push the current character into the stack.
+• Convert the stack into the final string.
+
+Why it works?
+
+The stack always maintains the smallest possible
+lexicographical order while ensuring every distinct
+character appears exactly once.
+
+----------------------------------------------
+
+⏱ Time Complexity : O(n)
+
+📦 Space Complexity: O(26) ≈ O(1)
+
+----------------------------------------------
+
+✍️ Author: Gopal Kushwaha
+
+📚 Repository: AlgoDiary-LeetCode-Notes
+
+=======================================
+
+*/
+
+# C++ Solution
+
+```cpp
+class Solution {
+public:
+    string smallestSubsequence(string s) {
+
+        // Store last occurrence of every character
+        vector<int> lastIdx(26);
+        vector<bool> visited(26, false);
+
+        for (int i = 0; i < s.size(); i++) {
+            lastIdx[s[i] - 'a'] = i;
+        }
+
+        // Create stack
+        stack<char> st;
+
+        // Traverse the string
+        for (int i = 0; i < s.size(); i++) {
+
+            char ch = s[i];
+
+            // Skip if already present
+            if (visited[ch - 'a'])
+                continue;
+
+            // Remove larger characters if they appear later
+            while (!st.empty() &&
+                   st.top() > ch &&
+                   lastIdx[st.top() - 'a'] > i) {
+
+                visited[st.top() - 'a'] = false;
+                st.pop();
+            }
+
+            st.push(ch);
+            visited[ch - 'a'] = true;
+        }
+
+        // Build answer
+        string ans;
+
+        while (!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
+
+        reverse(ans.begin(), ans.end());
+
+        return ans;
+    }
+};
+```
+
+----------------------------------------------
+
+🔥 Key Concepts
+
+• Greedy Algorithm
+
+• Monotonic Stack
+
+• Lexicographical Order
+
+• Last Occurrence Array
+
+• Visited Array
+
+• String Processing
+
+----------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star!
