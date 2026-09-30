@@ -1,0 +1,123 @@
+# /*
+
+## 🚀 AlgoDiary | LeetCode Solutions by Gopal Kushwaha
+
+🧠 Problem: 1111. Maximum Nesting Depth of Two Valid Parentheses Strings  
+🔗 Platform: LeetCode  
+🏷 Difficulty: Medium
+
+---
+
+💡 Problem Statement:
+
+Given a valid parentheses string `seq`, split it into two subsequences `A` and `B` such that both are valid parentheses strings and the maximum nesting depth is minimized.
+
+Return an array where:
+
+• `0` → character belongs to `A`  
+• `1` → character belongs to `B`
+
+---
+
+💡 Approach:
+
+First, find the maximum nesting depth of the given string.
+
+We maintain:
+
+• `currDepth` → current nesting depth  
+• `maxDepth` → maximum nesting depth
+
+Then divide the maximum depth into two parts using:
+
+`splitIdx = maxDepth / 2`
+
+While traversing the string again, assign each parenthesis to group `0` or `1` based on its current nesting depth.
+
+---
+
+🔍 Logic:
+
+For `(`:
+
+• Increase `currSplit`
+
+• If `currSplit <= splitIdx` → assign `0`
+
+• Otherwise → assign `1`
+
+For `)`:
+
+• Decrease `currSplit`
+
+• If `currSplit < splitIdx` → assign `0`
+
+• Otherwise → assign `1`
+
+This distributes the nesting levels between the two groups.
+
+---
+
+💻 Java Code:
+
+```java
+class Solution {
+
+    public int split(String seq) {
+        int maxDepth = 0;
+        int currDepth = 0;
+
+        for (char ch : seq.toCharArray()) {
+
+            if (ch == '(') {
+                currDepth++;
+                maxDepth = Math.max(maxDepth, currDepth);
+            } 
+            else {
+                currDepth--;
+            }
+        }
+
+        return maxDepth / 2;
+    }
+
+    public int[] maxDepthAfterSplit(String seq) {
+
+        int len = seq.length();
+        int splitIdx = split(seq);
+
+        int[] ans = new int[len];
+        int currSplit = 0;
+
+        for (int i = 0; i < len; i++) {
+
+            char ch = seq.charAt(i);
+
+            if (ch == '(') {
+
+                currSplit++;
+
+                if (currSplit <= splitIdx) {
+                    ans[i] = 0;
+                } 
+                else {
+                    ans[i] = 1;
+                }
+
+            } 
+            else {
+
+                currSplit--;
+
+                if (currSplit < splitIdx) {
+                    ans[i] = 0;
+                } 
+                else {
+                    ans[i] = 1;
+                }
+            }
+        }
+
+        return ans;
+    }
+}
